@@ -1,0 +1,1 @@
+{"type": "record", "name": "StringPair", "doc": "Para lancuchow", "fields": [{"name": "left", "type": "string"}, {"name": "right", "type": "string"}]}
